@@ -1,0 +1,18 @@
+PROJET 2 PW :
+
+- Testé sur Chrome, IE, Firefox et WampServer windows configuré sur port 82.
+
+- "PCHER_connexion.php" : page de depart
+
+- 1 base de données à importer : pcher (voir fichier "database_PCHER.sql")
+
+- 2 tables : chat, users
+
+- dans chat 4 attributs : id (int) auto_increment+clé primaire, login (varchar), message (varchar), date (datetime)
+
+- dans users 4 attributs : ID (int) auto_increment+clé primaire, login (varchar), password (varchar), email (varchar)
+
+
+
+Binôme : LE Van Thanh Quang et JUIMO Ghislain
+L3 miage 2015/2016
